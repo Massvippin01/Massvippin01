@@ -84,11 +84,11 @@ const vippin = {
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=VippinAntonyP&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=7B61FF&icon_color=7B61FF&text_color=ffffff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=VippinAntonyP&theme=tokyonight&hide_border=true&background=0d1117&ring=7B61FF&fire=7B61FF&currStreakLabel=7B61FF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Massvippin01&theme=tokyonight&hide_border=true&background=0d1117&ring=7B61FF&fire=7B61FF&currStreakLabel=7B61FF" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VippinAntonyP&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B61FF&text_color=ffffff" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Massvippin01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B61FF&text_color=ffffff" />
 
 </div>
 
@@ -97,7 +97,7 @@ const vippin = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VippinAntonyP&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Massvippin01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </div>
 
 ---
@@ -105,7 +105,7 @@ const vippin = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VippinAntonyP&bg_color=0d1117&color=7B61FF&line=7B61FF&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Massvippin01&bg_color=0d1117&color=7B61FF&line=7B61FF&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ---
@@ -118,7 +118,7 @@ const vippin = {
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://github.com/VippinAntonyP" target="_blank">
+<a href="https://github.com/Massvippin01" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;

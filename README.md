@@ -51,11 +51,15 @@ const vippin = {
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
 ### 🎨 Frontend
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
@@ -64,7 +68,10 @@ const vippin = {
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neon-00E699?style=for-the-badge&logo=neon&logoColor=black" />
+  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" />
 </p>
 
 ### 🛠️ Tools & Platforms
@@ -84,11 +91,11 @@ const vippin = {
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=VippinAntonyP&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=7B61FF&icon_color=7B61FF&text_color=ffffff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Massvippin01&theme=tokyonight&hide_border=true&background=0d1117&ring=7B61FF&fire=7B61FF&currStreakLabel=7B61FF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=VippinAntonyP&theme=tokyonight&hide_border=true&background=0d1117&ring=7B61FF&fire=7B61FF&currStreakLabel=7B61FF" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Massvippin01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B61FF&text_color=ffffff" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VippinAntonyP&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B61FF&text_color=ffffff" />
 
 </div>
 
@@ -97,7 +104,7 @@ const vippin = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Massvippin01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VippinAntonyP&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </div>
 
 ---
@@ -105,7 +112,7 @@ const vippin = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Massvippin01&bg_color=0d1117&color=7B61FF&line=7B61FF&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VippinAntonyP&bg_color=0d1117&color=7B61FF&line=7B61FF&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ---
@@ -118,7 +125,7 @@ const vippin = {
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://github.com/Massvippin01" target="_blank">
+<a href="https://github.com/VippinAntonyP" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;

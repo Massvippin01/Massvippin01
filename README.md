@@ -25,7 +25,7 @@
 const vippin = {
   name:        "VippinAntony P",
   location:    "India 🇮🇳",
-  role:        "Frontend Developer",
+  role:        "Full Stack Saas Builder and UI/UX dev",
   passion:     "Crafting pixel-perfect, performant UIs",
   currentFocus: ["React", "TypeScript", "Full Stack Development"],
   learning:    ["Next.js", "GraphQL", "System Design"],

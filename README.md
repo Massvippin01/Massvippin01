@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Profile views + followers badges -->
-<img src="https://komarev.com/ghpvc/?username=VippinAntonyP&label=Profile%20Views&color=7B61FF&style=flat-square" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Massvippin01&label=Profile%20Views&color=7B61FF&style=flat-square" alt="profile views" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/Massvippin01?label=Followers&style=flat-square&color=7B61FF" alt="followers" />
 

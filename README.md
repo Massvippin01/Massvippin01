@@ -3,7 +3,7 @@
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=VippinAntony%20P&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20UI%20Craftsman%20%7C%20Full%20Stack%20Explorer&descAlignY=60&descSize=18&descColor=a0a0ff"/>
 
-<!-- Typing animation -->
+<!--- Typing animation --->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B61FF&center=true&vCenter=true&random=false&width=600&lines=Passionate+Frontend+Developer+%F0%9F%9A%80;React+%7C+TypeScript+%7C+Node.js+Enthusiast;Building+Beautiful+Web+Experiences+%E2%9C%A8;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 </a>

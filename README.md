@@ -61,21 +61,6 @@ When I'm not shipping, I'm in Unity or exploring open source.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Massvippin01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=ffffff" />
-&nbsp;
-<img height="180" src="https://streak-stats.demolab.com?user=Massvippin01&theme=tokyonight&hide_border=true&background=0D1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
-
-<br/><br/>
-
-
-
-</div>
-
----
 
 ## 🤝 Connect
 

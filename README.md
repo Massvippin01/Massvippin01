@@ -18,7 +18,7 @@ const vippin = {
   based_in: "India 🇮🇳",
   stack:    ["React", "TypeScript", "Node.js", "PostgreSQL", "Next.js"],
   current:  "Building full-stack SaaS products end-to-end",
-  learning: ["System Design", "GraphQL", "Game Dev w/ Unity"],
+  learning: ["Ai and Agentic Ai Development"],
   believes: "Great UIs are felt, not just seen.",
 };
 ```

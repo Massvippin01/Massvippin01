@@ -29,7 +29,7 @@ When I'm not shipping, I'm in Unity or exploring open source.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
 
 <div align="center">
 

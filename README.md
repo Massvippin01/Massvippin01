@@ -89,13 +89,12 @@ const vippin = {
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Massvippin01&bg_color=0b1220&color=93c5fd&line=3b82f6&point=e0f2fe&area=true&area_color=1e3a8a&hide_border=true&title_color=93c5fd" />
 
-<!-- Snake: uncomment AFTER the "Generate contribution snake" action has run once (it creates the `output` branch these URLs point to).
+<!-- Snake: images come from the `output` branch, created by the "Generate contribution snake" action. -->
 <br/><br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Massvippin01/Massvippin01/output/snake-dark.svg" />
   <img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/Massvippin01/Massvippin01/output/snake.svg" />
 </picture>
--->
 
 </div>
 

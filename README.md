@@ -107,3 +107,5 @@ const vippin = {
 <br/><br/>
 
 <img src="./assets/footer.svg" width="100%" alt="First, solve the problem. Then, write the code." />
+
+<p align="center"><sub>© 2026 Vippin Antony P · All rights reserved · design, artwork and code in this repo may not be reused without permission</sub></p>

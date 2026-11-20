@@ -1,83 +1,116 @@
+<img src="./assets/header.svg" width="100%" alt="Vippin Antony P — Full Stack · UI Craft · SaaS" />
+
 <div align="center">
 
-# Hi, I'm Vippin  👋
+<br/>
 
-### Full Stack Developer · UI Craftsman · SaaS Builder
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=560&lines=building+full-stack+SaaS+end-to-end;react+%C2%B7+node+%C2%B7+postgres+%C2%B7+next.js;currently+exploring+agentic+AI;great+UIs+are+felt%2C+not+just+seen" alt="typing" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Massvippin01&label=Profile+Views&color=6366f1&style=flat-square)](https://github.com/Massvippin01)
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Massvippin01&label=views&color=1e3a8a&style=flat-square" />
 &nbsp;
-[![Followers](https://img.shields.io/github/followers/Massvippin01?label=Followers&style=flat-square&color=6366f1)](https://github.com/Massvippin01)
+<img src="https://img.shields.io/github/followers/Massvippin01?label=followers&style=flat-square&color=1e40af&labelColor=0b1220&logo=github" />
+&nbsp;
+<img src="https://img.shields.io/badge/based%20in-India-0ea5e9?style=flat-square&labelColor=0b1220" />
 
 </div>
 
----
+<br/><br/>
+
+## `01` &nbsp;·&nbsp; about
+
+> I write the frontend **and** the API — React on the client, Node + PostgreSQL
+> on the server, Prisma and Supabase keeping the data layer clean.
 
 ```typescript
 const vippin = {
-  name:     "VippinAntony P",
-  based_in: "India 🇮🇳",
   stack:    ["React", "TypeScript", "Node.js", "PostgreSQL", "Next.js"],
   current:  "Building full-stack SaaS products end-to-end",
-  learning: ["Ai and Agentic Ai Development"],
+  learning: ["AI & Agentic AI Development"],
+  offline:  ["Unity 🎮", "Open source 🌱"],
   believes: "Great UIs are felt, not just seen.",
 };
 ```
 
-I write the frontend *and* the API — React on the client, Node + PostgreSQL
-on the server, Prisma and Supabase keeping the data layer clean.
-When I'm not shipping, I'm in Unity or exploring open source.
+<br/>
 
----
+## `02` &nbsp;·&nbsp; what i do
 
-## 🛠️ Tech Stack 
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🛰️ &nbsp;Frontend**
+
+<sub>Interfaces that feel fast — React, Next.js, Tailwind, built with care for motion, detail and accessibility.</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**🪐 &nbsp;Backend**
+
+<sub>Typed APIs on Node & Express, PostgreSQL through Prisma and Supabase. Clean data, boring deploys.</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**🌌 &nbsp;AI & Agents**
+
+<sub>Currently learning to ship LLM-powered and agentic features inside real products.</sub>
+
+</td>
+</tr>
+</table>
+
+<br/><br/>
+
+## `03` &nbsp;·&nbsp; stack
+
+<img src="https://skillicons.dev/icons?i=ts,js,py,cpp&theme=dark&perline=4" height="42" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,figma&theme=dark" height="42" />
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,prisma,supabase&theme=dark" height="42" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,unity&theme=dark" height="42" />
+
+<sub>languages &nbsp;·&nbsp; frontend &nbsp;·&nbsp; backend & data &nbsp;·&nbsp; tools</sub>
+
+<br/><br/>
+
+## `04` &nbsp;·&nbsp; telemetry
 
 <div align="center">
 
-**Languages**
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Massvippin01&theme=tokyonight" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Massvippin01&theme=tokyonight" />
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,cpp&theme=dark" />
-</a>
+<br/>
 
-**Frontend**
+<img src="https://streak-stats.demolab.com?user=Massvippin01&theme=tokyonight&hide_border=true&background=0b1220&ring=3b82f6&fire=22d3ee&currStreakLabel=60a5fa&sideLabels=93c5fd&dates=475569" />
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,figma&theme=dark" />
-</a>
+<br/><br/>
 
-**Backend & Data**
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Massvippin01&bg_color=0b1220&color=93c5fd&line=3b82f6&point=e0f2fe&area=true&area_color=1e3a8a&hide_border=true&title_color=93c5fd" />
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,prisma,supabase&theme=dark" />
-</a>
+<br/><br/>
 
-**Tools**
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,unity&theme=dark" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Massvippin01/Massvippin01/output/snake-dark.svg" />
+  <img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/Massvippin01/Massvippin01/output/snake.svg" />
+</picture>
 
 </div>
 
----
+<br/><br/>
 
+## `05` &nbsp;·&nbsp; signal
 
-## 🤝 Connect
-
-<div align="center">
-
-<a href="https://instagram.com/mass_vippin">
-  <img src="https://img.shields.io/badge/Instagram-mass__vippin-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+<a href="https://github.com/Massvippin01"><img src="https://img.shields.io/badge/github-Massvippin01-0b1220?style=for-the-badge&logo=github&logoColor=93c5fd&labelColor=1e3a8a" /></a>
 &nbsp;
-<a href="https://github.com/Massvippin01">
-  <img src="https://img.shields.io/badge/GitHub-Massvippin01-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<a href="https://instagram.com/mass_vippin"><img src="https://img.shields.io/badge/instagram-mass__vippin-0b1220?style=for-the-badge&logo=instagram&logoColor=93c5fd&labelColor=1e3a8a" /></a>
 
-</div>
+<br/><br/>
 
----
-
-<div align="center">
-  <sub><i>First, solve the problem. Then, write the code.</i></sub>
-</div>
+<img src="./assets/footer.svg" width="100%" alt="First, solve the problem. Then, write the code." />

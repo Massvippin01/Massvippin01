@@ -8,11 +8,9 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Massvippin01&label=views&color=1e3a8a&style=flat-square" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/Massvippin01?label=followers&style=flat-square&color=1e40af&labelColor=0b1220&logo=github" />
-&nbsp;
-<img src="https://img.shields.io/badge/based%20in-India-0ea5e9?style=flat-square&labelColor=0b1220" />
+<img src="https://komarev.com/ghpvc/?username=Massvippin01&label=PROFILE%20VIEWS&color=1e40af&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Massvippin01?label=FOLLOWERS&style=for-the-badge&color=1e40af&labelColor=0b1220&logo=github" />
+<img src="https://img.shields.io/badge/BASED%20IN-INDIA-1e40af?style=for-the-badge&labelColor=0b1220" />
 
 </div>
 
@@ -67,15 +65,12 @@ const vippin = {
 
 ## `03` &nbsp;·&nbsp; stack
 
-<img src="https://skillicons.dev/icons?i=ts,js,py,cpp&theme=dark&perline=4" height="42" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,figma&theme=dark" height="42" />
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,prisma,supabase&theme=dark" height="42" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,unity&theme=dark" height="42" />
-
-<sub>languages &nbsp;·&nbsp; frontend &nbsp;·&nbsp; backend & data &nbsp;·&nbsp; tools</sub>
+<table>
+<tr><td width="160"><sub><b>LANGUAGES</b></sub></td><td><img src="https://skillicons.dev/icons?i=ts,js,py,cpp&theme=dark" height="40" /></td></tr>
+<tr><td><sub><b>FRONTEND</b></sub></td><td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,figma&theme=dark" height="40" /></td></tr>
+<tr><td><sub><b>BACKEND & DATA</b></sub></td><td><img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,prisma,supabase&theme=dark" height="40" /></td></tr>
+<tr><td><sub><b>TOOLS</b></sub></td><td><img src="https://skillicons.dev/icons?i=git,github,linux,vscode,unity&theme=dark" height="40" /></td></tr>
+</table>
 
 <br/><br/>
 
@@ -94,12 +89,13 @@ const vippin = {
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Massvippin01&bg_color=0b1220&color=93c5fd&line=3b82f6&point=e0f2fe&area=true&area_color=1e3a8a&hide_border=true&title_color=93c5fd" />
 
+<!-- Snake: uncomment AFTER the "Generate contribution snake" action has run once (it creates the `output` branch these URLs point to).
 <br/><br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Massvippin01/Massvippin01/output/snake-dark.svg" />
   <img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/Massvippin01/Massvippin01/output/snake.svg" />
 </picture>
+-->
 
 </div>
 
